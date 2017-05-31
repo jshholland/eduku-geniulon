@@ -1,6 +1,7 @@
 # Foreword
 
 > Genius = work + luck
+>
 > Happiness = work + luck + love + freedom
 
 This book appeared in Hungarian in 1989.  In it, I described and
